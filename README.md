@@ -12,8 +12,7 @@ emmet.js
         
      </script>
      
-     
-  ```html
+    
     <div id="id" class="class">
         <p>
     	  <span>Text</span>
