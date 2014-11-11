@@ -1,19 +1,24 @@
-Test
+emmet.js
 ===
 
-Some Texe
+ A simplistic DOM Manipulation JavaScript library.
+ This library is heavily inspired by [emmet.io](http://http://emmet.io/).
 
 
 ```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
+    <script>
+	    var sting = 'div#id.class>p>span{Text}+a[href=#]^section*2'
+        emmet.render(sting).append();
+        
+     </script>
+     
+     
+  ```html
+    <div id="id" class="class">
+        <p>
+    	  <span>Text</span>
+    	  <a href="#"></a>
+    	</p>
+    	<section></section>
+    	<section></section>
     </div>
-</pre>
