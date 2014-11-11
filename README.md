@@ -1,7 +1,8 @@
-emmet.js
+emmet
 ===
 
  A simplistic DOM Manipulation JavaScript library.
+ ===
  This library is heavily inspired by [emmet.io](http://www.emmet.io/).
 
  This piece of code
