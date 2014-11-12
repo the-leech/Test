@@ -1,19 +1,13 @@
-whiteboard
-==========
+Webtop
+======
 
-multi-room realtime chat and collaborative whiteboard app
-
-![contributors](http://i42.photobucket.com/albums/e316/tanasiliev/whiteboard_zpse281711f.png)
-
-
-###Included Libraries
-
-* Bootstrap
-* jQuery
-* express
-* socket.io
+Web Desktop  (alpha version tested only on Chrome) 
 
 
 
- [demo](http://simple-whiteboard.herokuapp.com) 
+![contributors](http://i42.photobucket.com/albums/e316/tanasiliev/webtop_zps462d2d7a.png)
 
+
+ 
+ 
+[demo](http://simple-whiteboard.herokuapp.com) 
