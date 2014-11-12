@@ -7,10 +7,11 @@ Simple Whiteboard Example
 
 ###Dependencies
 
-Server Side 
+###Server Side 
 * [express](http://http://expressjs.com/) 
 * [socket.io](http://socket.io/)
-Client Side 
+
+### Client Side 
 * [Bootstrap](http://http://getbootstrap.com/) 
 * [jQuery](http://http://jquery.com/) 
 
@@ -19,5 +20,3 @@ Client Side
  
  [demo](http://simple-whiteboard.herokuapp.com) 
 
-    
-  
