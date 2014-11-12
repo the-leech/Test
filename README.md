@@ -9,7 +9,8 @@ Simple Whiteboard Example
  * Bootstrap
  * jQuery
  * express
- * socket.io
+ * dsadasdsads
+ 
  
 
 
