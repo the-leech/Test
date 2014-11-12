@@ -10,4 +10,4 @@ Web Desktop  (alpha version tested only on Chrome)
 
  
  
-[demo](http://simple-whiteboard.herokuapp.com) 
+[demo](http://webtop.herokuapp.com) 
