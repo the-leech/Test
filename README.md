@@ -14,7 +14,6 @@ multi-room realtime chat and collaborative whiteboard app
 * socket.io
 
 
----
 
  [demo](http://simple-whiteboard.herokuapp.com) 
 
